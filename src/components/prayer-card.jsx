@@ -1,14 +1,13 @@
-const PrayerCard = ({ data: item }) => {
-  console.log(item.time);
+const PrayerCard = ({ prayer }) => {
   return (
-    <div class={item.next ? "prayer-card expanded" : "prayer-card"}>
-      <h4>{item.name}</h4>
-      {item.next && (
+    <div className={prayer.isNext ? "prayer-card expanded" : "prayer-card"}>
+      <h4>{prayer.name}</h4>
+      {prayer.isNext && (
         <>
           <p className="remaining">00:09:32</p>
         </>
       )}
-      <p>{item.time}PM</p>
+      <p>{prayer.time}</p>
     </div>
   );
 };

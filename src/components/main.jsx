@@ -1,26 +1,39 @@
 import CradsRow from "./cards-row";
 import Select from "react-select";
 import { cities, city as c } from "../services/cities";
-import axios from "axios";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { request } from "../services/api";
+const Main = ({ prayers }) => {
+  const [city, setCity] = useState(null);
+  const [selectedCity, setSelectedCity] = useState(c);
+  useEffect(() => {
+    async function fetchData() {
+      const x = await request(c.value, c.country);
+      setCity(x.data.data);
+    }
+    fetchData();
+  }, []);
 
-const Main = ({ data }) => {
-  const [city, setCity] = useState(c);
   const handleChange = async (selected) => {
-    const x = await axios.get(
-      `http://api.aladhan.com/v1/timingsByCity?city=${selected.value}&country=${selected.country}&method=4`
-    );
+    const x = await request(selected.value, selected.country);
     setCity(x.data.data);
+    setSelectedCity(selected);
   };
+  if (!city) return <div>Loading...</div>;
   return (
     <>
       <div className="main">
-        <Select options={cities} isSearchable={true} onChange={handleChange} />
+        <Select
+          options={cities}
+          isSearchable={true}
+          onChange={handleChange}
+          value={selectedCity}
+        />
 
         <div className="main-body">
           <img src={require("../imgs/mosque23png.png")} alt="" />
         </div>
-        <CradsRow data={data} city={city} />
+        <CradsRow prayers={prayers} city={city} />
       </div>
     </>
   );
