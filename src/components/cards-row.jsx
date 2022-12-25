@@ -1,14 +1,14 @@
 import PrayerCard from "./prayer-card";
 
-const CradsRow = ({ data, city }) => {
-  data.forEach((item) => {
-    item.time = city.timings[item.value];
+const CradsRow = ({ prayers, city }) => {
+  prayers.forEach((prayer) => {
+    prayer.time = city.timings[prayer.value];
   });
 
   return (
     <div className="cards-row d-flex gap-5 justify-content-between">
-      {data.map((item) => {
-        return <PrayerCard data={item} />;
+      {prayers.map((prayer) => {
+        return <PrayerCard key={prayer.value} prayer={prayer} />;
       })}
     </div>
   );
