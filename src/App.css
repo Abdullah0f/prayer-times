@@ -1,16 +1,72 @@
+
+/* card */
 .prayer-card{
 background: #F6F6F6;
 width: fit-content;
-padding: 20px 30px 15px 30px;
+/* padding: 9px 0px 0px 0px; */
+width: 150px;
+height: 130px;
+/* aspect-ratio: 1/1; */
 border-radius: 10px;
-box-shadow: 0px 0px 4px #000;
-text-align: center;
+/* box-shadow: 0px 0px 4px #000; */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
 }
 .prayer-card h4{
   font-family: "Cairo";
   font-weight: 600;
+  opacity: 0.8;
 }
 .prayer-card p{
   font-family: "Cairo";
-  font-weight: 300;
+  font-weight: 500;
+}
+.prayer-card.expanded{
+  scale: 1.5;
+  /* border: 2px solid #1E8D3E; */
+box-shadow: 0px 0px 5px 2px #1E8D3E;
+}
+.remaining{
+/* padding: 12px 0px 0px 0px; */
+  margin: 0;
+  color: #50826D;
+  font-family: "Cairo";
+  font-size: 26px;
+}
+
+@media screen and (max-width: 900px) {
+  .prayer-card h4{
+    /* width: 100px; */
+    font-size: 16px;
+   
+  }
+  .prayer-card p{
+    /* width: 100px; */
+    font-size: 13px;
+  }
+  
+}
+
+.main{
+  /* height: 100vh; */
+width: fit-content;
+  margin:  5rem auto;
+  box-shadow: 0px 0px 1px  #000;
+  padding: 2rem;
+  border-radius: 3px;
+  max-width: 1200px;
+}
+.main-body{
+  display: flex;
+  justify-content: center;
+}
+
+.main-body img{
+  
+  width: 1000px
+}
+.cards-row{
+  margin: 5px 
 }

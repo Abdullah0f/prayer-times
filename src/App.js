@@ -1,9 +1,43 @@
-import logo from "./logo.svg";
 import "./App.css";
-import PrayerCard from "./components/prayer-card";
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/css/bootstrap.min.css";
+
+import CradsRow from "./components/cards-row";
+import Main from "./components/main";
 function App() {
-  return <PrayerCard />;
+  const x = [
+    {
+      name: "الفجر",
+      time: "12:00",
+      value: "Fajr",
+      next: true,
+    },
+    {
+      name: "الشروق",
+      time: "12:00",
+      value: "Sunrise",
+    },
+    {
+      name: "الظهر",
+      time: "12:00",
+      value: "Dhuhr",
+    },
+    {
+      name: "العصر",
+      time: "12:00",
+      value: "Asr",
+    },
+    {
+      name: "المغرب",
+      time: "12:00",
+      value: "Maghrib",
+    },
+    {
+      name: "العشاء",
+      time: "12:00",
+      value: "Isha",
+    },
+  ];
+  return <Main data={x} />;
 }
 
 export default App;

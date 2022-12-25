@@ -1,0 +1,2502 @@
+[
+  {
+    "city": "Istanbul",
+    "population": 14804116,
+    "country": "Turkey"
+  },
+  {
+    "city": "Cairo",
+    "population": 7734614,
+    "country": "Egypt"
+  },
+  {
+    "city": "Baghdad",
+    "population": 7216000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Tehran",
+    "population": 7153309,
+    "country": "Iran"
+  },
+  {
+    "city": "Riyadh",
+    "population": 4205961,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Alexandria",
+    "population": 3811516,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ankara",
+    "population": 3517182,
+    "country": "Turkey"
+  },
+  {
+    "city": "Dubai",
+    "population": 2956587,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Jeddah",
+    "population": 2867446,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Basrah",
+    "population": 2600000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Izmir",
+    "population": 2500603,
+    "country": "Turkey"
+  },
+  {
+    "city": "Giza",
+    "population": 2443203,
+    "country": "Egypt"
+  },
+  {
+    "city": "Mashhad",
+    "population": 2307177,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Mawsil al Jadidah",
+    "population": 2065597,
+    "country": "Iraq"
+  },
+  {
+    "city": "Al Basrah al Qadimah",
+    "population": 2015483,
+    "country": "Iraq"
+  },
+  {
+    "city": "Sanaa",
+    "population": 1937451,
+    "country": "Yemen"
+  },
+  {
+    "city": "Beirut",
+    "population": 1916100,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Mosul",
+    "population": 1739800,
+    "country": "Iraq"
+  },
+  {
+    "city": "Aleppo",
+    "population": 1602264,
+    "country": "Syria"
+  },
+  {
+    "city": "Damascus",
+    "population": 1569394,
+    "country": "Syria"
+  },
+  {
+    "city": "Isfahan",
+    "population": 1547164,
+    "country": "Iran"
+  },
+  {
+    "city": "Karaj",
+    "population": 1448075,
+    "country": "Iran"
+  },
+  {
+    "city": "Tabriz",
+    "population": 1424641,
+    "country": "Iran"
+  },
+  {
+    "city": "Bursa",
+    "population": 1412701,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sharjah",
+    "population": 1324473,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Mecca",
+    "population": 1323624,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Medina",
+    "population": 1300000,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Amman",
+    "population": 1275857,
+    "country": "Jordan"
+  },
+  {
+    "city": "Ra's Bayrut",
+    "population": 1251739,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Shiraz",
+    "population": 1249942,
+    "country": "Iran"
+  },
+  {
+    "city": "Adana",
+    "population": 1248988,
+    "country": "Turkey"
+  },
+  {
+    "city": "Gaziantep",
+    "population": 1065975,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sultanah",
+    "population": 946697,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Erbil",
+    "population": 932800,
+    "country": "Iraq"
+  },
+  {
+    "city": "Abu Ghurayb",
+    "population": 900000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Qom",
+    "population": 900000,
+    "country": "Iran"
+  },
+  {
+    "city": "Konya",
+    "population": 875530,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ahvaz",
+    "population": 841145,
+    "country": "Iran"
+  },
+  {
+    "city": "Jerusalem",
+    "population": 801000,
+    "country": "Israel"
+  },
+  {
+    "city": "Muscat",
+    "population": 797000,
+    "country": "Oman"
+  },
+  {
+    "city": "Zarqa",
+    "population": 792665,
+    "country": "Jordan"
+  },
+  {
+    "city": "Cankaya",
+    "population": 792189,
+    "country": "Turkey"
+  },
+  {
+    "city": "Pasragad Branch",
+    "population": 787878,
+    "country": "Iran"
+  },
+  {
+    "city": "Homs",
+    "population": 775404,
+    "country": "Syria"
+  },
+  {
+    "city": "Dammam",
+    "population": 768602,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Kahriz",
+    "population": 766706,
+    "country": "Iran"
+  },
+  {
+    "city": "Antalya",
+    "population": 758188,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bagcilar",
+    "population": 749024,
+    "country": "Turkey"
+  },
+  {
+    "city": "As Sulaymaniyah",
+    "population": 723170,
+    "country": "Iraq"
+  },
+  {
+    "city": "Diyarbakir",
+    "population": 644763,
+    "country": "Turkey"
+  },
+  {
+    "city": "Al Ahmadi",
+    "population": 637411,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Kermanshah",
+    "population": 621100,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Hudaydah",
+    "population": 617871,
+    "country": "Yemen"
+  },
+  {
+    "city": "Taiz",
+    "population": 615222,
+    "country": "Yemen"
+  },
+  {
+    "city": "Abu Dhabi",
+    "population": 603492,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Kirkuk",
+    "population": 601433,
+    "country": "Iraq"
+  },
+  {
+    "city": "Rasht",
+    "population": 594590,
+    "country": "Iran"
+  },
+  {
+    "city": "Kayseri",
+    "population": 592840,
+    "country": "Turkey"
+  },
+  {
+    "city": "UEskuedar",
+    "population": 582666,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kerman",
+    "population": 577514,
+    "country": "Iran"
+  },
+  {
+    "city": "Orumiyeh",
+    "population": 577307,
+    "country": "Iran"
+  },
+  {
+    "city": "Bahcelievler",
+    "population": 576799,
+    "country": "Turkey"
+  },
+  {
+    "city": "Umraniye",
+    "population": 573265,
+    "country": "Turkey"
+  },
+  {
+    "city": "Zahedan",
+    "population": 551980,
+    "country": "Iran"
+  },
+  {
+    "city": "Aden",
+    "population": 550602,
+    "country": "Yemen"
+  },
+  {
+    "city": "Port Said",
+    "population": 538378,
+    "country": "Egypt"
+  },
+  {
+    "city": "Mersin",
+    "population": 537842,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ta'if",
+    "population": 530848,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Hamadan",
+    "population": 528256,
+    "country": "Iran"
+  },
+  {
+    "city": "Esenler",
+    "population": 520235,
+    "country": "Turkey"
+  },
+  {
+    "city": "Eskisehir",
+    "population": 514869,
+    "country": "Turkey"
+  },
+  {
+    "city": "Azadshahr",
+    "population": 514102,
+    "country": "Iran"
+  },
+  {
+    "city": "Arak",
+    "population": 503647,
+    "country": "Iran"
+  },
+  {
+    "city": "Ajman City",
+    "population": 490035,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Suez",
+    "population": 488125,
+    "country": "Egypt"
+  },
+  {
+    "city": "Najaf",
+    "population": 482576,
+    "country": "Iraq"
+  },
+  {
+    "city": "Yazd",
+    "population": 477905,
+    "country": "Iran"
+  },
+  {
+    "city": "Hamah",
+    "population": 460602,
+    "country": "Syria"
+  },
+  {
+    "city": "Karabaglar",
+    "population": 458000,
+    "country": "Turkey"
+  },
+  {
+    "city": "Tabuk",
+    "population": 455450,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Muratpasa",
+    "population": 450000,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sanliurfa",
+    "population": 449549,
+    "country": "Turkey"
+  },
+  {
+    "city": "Malatya",
+    "population": 441805,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sultangazi",
+    "population": 436935,
+    "country": "Turkey"
+  },
+  {
+    "city": "Karbala",
+    "population": 434450,
+    "country": "Iraq"
+  },
+  {
+    "city": "Tel Aviv",
+    "population": 432892,
+    "country": "Israel"
+  },
+  {
+    "city": "Al Mahallah al Kubra",
+    "population": 431052,
+    "country": "Egypt"
+  },
+  {
+    "city": "East Jerusalem",
+    "population": 428304,
+    "country": "Palestine"
+  },
+  {
+    "city": "Maltepe",
+    "population": 427040,
+    "country": "Turkey"
+  },
+  {
+    "city": "Al Kharj",
+    "population": 425300,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Luxor",
+    "population": 422407,
+    "country": "Egypt"
+  },
+  {
+    "city": "Erzurum",
+    "population": 420691,
+    "country": "Turkey"
+  },
+  {
+    "city": "Asyut",
+    "population": 420585,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Mansurah",
+    "population": 420195,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ardabil",
+    "population": 410753,
+    "country": "Iran"
+  },
+  {
+    "city": "Gaza",
+    "population": 410000,
+    "country": "Palestine"
+  },
+  {
+    "city": "Tanta",
+    "population": 404901,
+    "country": "Egypt"
+  },
+  {
+    "city": "Nasiriyah",
+    "population": 400249,
+    "country": "Iraq"
+  },
+  {
+    "city": "West Jerusalem",
+    "population": 400000,
+    "country": "Israel"
+  },
+  {
+    "city": "Samsun",
+    "population": 394050,
+    "country": "Turkey"
+  },
+  {
+    "city": "Buraydah",
+    "population": 391336,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Khamis Mushait",
+    "population": 387553,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Batman",
+    "population": 381990,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kahramanmaras",
+    "population": 376045,
+    "country": "Turkey"
+  },
+  {
+    "city": "Van",
+    "population": 371713,
+    "country": "Turkey"
+  },
+  {
+    "city": "Abadan",
+    "population": 370180,
+    "country": "Iran"
+  },
+  {
+    "city": "Atasehir",
+    "population": 361615,
+    "country": "Turkey"
+  },
+  {
+    "city": "Zanjan",
+    "population": 357471,
+    "country": "Iran"
+  },
+  {
+    "city": "Bandar Abbas",
+    "population": 352173,
+    "country": "Iran"
+  },
+  {
+    "city": "Ras Al Khaimah City",
+    "population": 351943,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Sanandaj",
+    "population": 349176,
+    "country": "Iran"
+  },
+  {
+    "city": "Doha",
+    "population": 344939,
+    "country": "Qatar"
+  },
+  {
+    "city": "Latakia",
+    "population": 340181,
+    "country": "Syria"
+  },
+  {
+    "city": "Qazvin",
+    "population": 333635,
+    "country": "Iran"
+  },
+  {
+    "city": "Khorramshahr",
+    "population": 330606,
+    "country": "Iran"
+  },
+  {
+    "city": "Khorramabad",
+    "population": 329825,
+    "country": "Iran"
+  },
+  {
+    "city": "Al 'Amarah",
+    "population": 323302,
+    "country": "Iraq"
+  },
+  {
+    "city": "Ad Diwaniyah",
+    "population": 318801,
+    "country": "Iraq"
+  },
+  {
+    "city": "Al Kut",
+    "population": 315162,
+    "country": "Iraq"
+  },
+  {
+    "city": "Sisli",
+    "population": 314684,
+    "country": "Turkey"
+  },
+  {
+    "city": "Denizli",
+    "population": 313238,
+    "country": "Turkey"
+  },
+  {
+    "city": "Irbid",
+    "population": 307480,
+    "country": "Jordan"
+  },
+  {
+    "city": "Al Fayyum",
+    "population": 306393,
+    "country": "Egypt"
+  },
+  {
+    "city": "Batikent",
+    "population": 300000,
+    "country": "Turkey"
+  },
+  {
+    "city": "Elazig",
+    "population": 298004,
+    "country": "Turkey"
+  },
+  {
+    "city": "Al Hufuf",
+    "population": 293179,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Al Mubarraz",
+    "population": 290802,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Al Hillah",
+    "population": 289709,
+    "country": "Iraq"
+  },
+  {
+    "city": "Zeytinburnu",
+    "population": 288743,
+    "country": "Turkey"
+  },
+  {
+    "city": "Adapazari",
+    "population": 286787,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sultanbeyli",
+    "population": 286622,
+    "country": "Turkey"
+  },
+  {
+    "city": "Zagazig",
+    "population": 285097,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ismailia",
+    "population": 284813,
+    "country": "Egypt"
+  },
+  {
+    "city": "Dihok",
+    "population": 284000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Gebze",
+    "population": 281436,
+    "country": "Turkey"
+  },
+  {
+    "city": "Merkezefendi",
+    "population": 280341,
+    "country": "Turkey"
+  },
+  {
+    "city": "Khomeyni Shahr",
+    "population": 277334,
+    "country": "Iran"
+  },
+  {
+    "city": "Ramadi",
+    "population": 274539,
+    "country": "Iraq"
+  },
+  {
+    "city": "Ar Rayyan",
+    "population": 272465,
+    "country": "Qatar"
+  },
+  {
+    "city": "Hafar Al-Batin",
+    "population": 271642,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Russeifa",
+    "population": 268237,
+    "country": "Jordan"
+  },
+  {
+    "city": "Kafr ad Dawwar",
+    "population": 267370,
+    "country": "Egypt"
+  },
+  {
+    "city": "Haifa",
+    "population": 267300,
+    "country": "Israel"
+  },
+  {
+    "city": "Ha'il",
+    "population": 267005,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Sivas",
+    "population": 264022,
+    "country": "Turkey"
+  },
+  {
+    "city": "Najran",
+    "population": 258573,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Mukalla",
+    "population": 258132,
+    "country": "Yemen"
+  },
+  {
+    "city": "Tarsus",
+    "population": 256482,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sari",
+    "population": 255396,
+    "country": "Iran"
+  },
+  {
+    "city": "Borujerd",
+    "population": 251958,
+    "country": "Iran"
+  },
+  {
+    "city": "Qarchak",
+    "population": 251834,
+    "country": "Iran"
+  },
+  {
+    "city": "Petah Tiqwa",
+    "population": 247956,
+    "country": "Israel"
+  },
+  {
+    "city": "Gorgan",
+    "population": 244937,
+    "country": "Iran"
+  },
+  {
+    "city": "Trabzon",
+    "population": 244083,
+    "country": "Turkey"
+  },
+  {
+    "city": "Manisa",
+    "population": 243971,
+    "country": "Turkey"
+  },
+  {
+    "city": "Musaffah",
+    "population": 243341,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Deir ez-Zor",
+    "population": 242565,
+    "country": "Syria"
+  },
+  {
+    "city": "Aswan",
+    "population": 241261,
+    "country": "Egypt"
+  },
+  {
+    "city": "Sancaktepe",
+    "population": 241000,
+    "country": "Turkey"
+  },
+  {
+    "city": "Balikesir",
+    "population": 238151,
+    "country": "Turkey"
+  },
+  {
+    "city": "Seeb",
+    "population": 237816,
+    "country": "Oman"
+  },
+  {
+    "city": "Al Jubayl",
+    "population": 237274,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Qina",
+    "population": 235362,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ibb",
+    "population": 234837,
+    "country": "Yemen"
+  },
+  {
+    "city": "Halwan",
+    "population": 230000,
+    "country": "Egypt"
+  },
+  {
+    "city": "Tripoli",
+    "population": 229398,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Damanhur",
+    "population": 227943,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Minya",
+    "population": 227150,
+    "country": "Egypt"
+  },
+  {
+    "city": "Sabzevar",
+    "population": 226183,
+    "country": "Iran"
+  },
+  {
+    "city": "Ashdod",
+    "population": 224656,
+    "country": "Israel"
+  },
+  {
+    "city": "Netanya",
+    "population": 224471,
+    "country": "Israel"
+  },
+  {
+    "city": "Adiyaman",
+    "population": 223744,
+    "country": "Turkey"
+  },
+  {
+    "city": "Najafabad",
+    "population": 223450,
+    "country": "Iran"
+  },
+  {
+    "city": "Neyshabur",
+    "population": 220929,
+    "country": "Iran"
+  },
+  {
+    "city": "Rishon LeZiyyon",
+    "population": 220492,
+    "country": "Israel"
+  },
+  {
+    "city": "Nazarabad",
+    "population": 213388,
+    "country": "Iran"
+  },
+  {
+    "city": "Bukan",
+    "population": 213331,
+    "country": "Iran"
+  },
+  {
+    "city": "Esenyurt",
+    "population": 211330,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kirikkale",
+    "population": 211138,
+    "country": "Turkey"
+  },
+  {
+    "city": "Abha",
+    "population": 210886,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Idku",
+    "population": 210678,
+    "country": "Egypt"
+  },
+  {
+    "city": "Antakya",
+    "population": 210000,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sohag",
+    "population": 209419,
+    "country": "Egypt"
+  },
+  {
+    "city": "Sirjan",
+    "population": 207645,
+    "country": "Iran"
+  },
+  {
+    "city": "Bnei Brak",
+    "population": 204639,
+    "country": "Israel"
+  },
+  {
+    "city": "Osmaniye",
+    "population": 202837,
+    "country": "Turkey"
+  },
+  {
+    "city": "Babol",
+    "population": 202796,
+    "country": "Iran"
+  },
+  {
+    "city": "Corlu",
+    "population": 202578,
+    "country": "Turkey"
+  },
+  {
+    "city": "Nicosia",
+    "population": 200452,
+    "country": "Cyprus"
+  },
+  {
+    "city": "Yanbu",
+    "population": 200161,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "New Cairo",
+    "population": 200000,
+    "country": "Egypt"
+  },
+  {
+    "city": "Amol",
+    "population": 199382,
+    "country": "Iran"
+  },
+  {
+    "city": "Arnavutkoey",
+    "population": 198165,
+    "country": "Turkey"
+  },
+  {
+    "city": "Birjand",
+    "population": 196982,
+    "country": "Iran"
+  },
+  {
+    "city": "Izmit",
+    "population": 196571,
+    "country": "Turkey"
+  },
+  {
+    "city": "Holon",
+    "population": 196282,
+    "country": "Israel"
+  },
+  {
+    "city": "Basaksehir",
+    "population": 193750,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bojnurd",
+    "population": 192041,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Fallujah",
+    "population": 190159,
+    "country": "Iraq"
+  },
+  {
+    "city": "Bani Suwayf",
+    "population": 189624,
+    "country": "Egypt"
+  },
+  {
+    "city": "Beersheba",
+    "population": 186600,
+    "country": "Israel"
+  },
+  {
+    "city": "Shibin al Kawm",
+    "population": 186345,
+    "country": "Egypt"
+  },
+  {
+    "city": "Kutahya",
+    "population": 185008,
+    "country": "Turkey"
+  },
+  {
+    "city": "Corum",
+    "population": 183418,
+    "country": "Turkey"
+  },
+  {
+    "city": "Wadi as Sir",
+    "population": 181212,
+    "country": "Jordan"
+  },
+  {
+    "city": "Varamin",
+    "population": 179603,
+    "country": "Iran"
+  },
+  {
+    "city": "Ar Raqqah",
+    "population": 177636,
+    "country": "Syria"
+  },
+  {
+    "city": "Malayer",
+    "population": 176573,
+    "country": "Iran"
+  },
+  {
+    "city": "Saveh",
+    "population": 175533,
+    "country": "Iran"
+  },
+  {
+    "city": "Khowy",
+    "population": 175370,
+    "country": "Iran"
+  },
+  {
+    "city": "Siverek",
+    "population": 175341,
+    "country": "Turkey"
+  },
+  {
+    "city": "Khan Yunis",
+    "population": 173183,
+    "country": "Palestine"
+  },
+  {
+    "city": "Isparta",
+    "population": 172334,
+    "country": "Turkey"
+  },
+  {
+    "city": "Jabalya",
+    "population": 168568,
+    "country": "Palestine"
+  },
+  {
+    "city": "Banha",
+    "population": 167029,
+    "country": "Egypt"
+  },
+  {
+    "city": "Khobar",
+    "population": 165799,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Bushehr",
+    "population": 165377,
+    "country": "Iran"
+  },
+  {
+    "city": "Hawalli",
+    "population": 164212,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Sidon",
+    "population": 163554,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Ramat Gan",
+    "population": 163301,
+    "country": "Israel"
+  },
+  {
+    "city": "Salalah",
+    "population": 163140,
+    "country": "Oman"
+  },
+  {
+    "city": "Bueyuekcekmece",
+    "population": 163140,
+    "country": "Turkey"
+  },
+  {
+    "city": "Aydin",
+    "population": 163022,
+    "country": "Turkey"
+  },
+  {
+    "city": "Mahabad",
+    "population": 162434,
+    "country": "Iran"
+  },
+  {
+    "city": "Hebron",
+    "population": 160470,
+    "country": "Palestine"
+  },
+  {
+    "city": "Dhamar",
+    "population": 160114,
+    "country": "Yemen"
+  },
+  {
+    "city": "Iskenderun",
+    "population": 159965,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bawshar",
+    "population": 159487,
+    "country": "Oman"
+  },
+  {
+    "city": "Samarra'",
+    "population": 158508,
+    "country": "Iraq"
+  },
+  {
+    "city": "Talkha",
+    "population": 157737,
+    "country": "Egypt"
+  },
+  {
+    "city": "Viransehir",
+    "population": 154163,
+    "country": "Turkey"
+  },
+  {
+    "city": "Limassol",
+    "population": 154000,
+    "country": "Cyprus"
+  },
+  {
+    "city": "As Samawah",
+    "population": 152890,
+    "country": "Iraq"
+  },
+  {
+    "city": "Usak",
+    "population": 152862,
+    "country": "Turkey"
+  },
+  {
+    "city": "Baqubah",
+    "population": 152550,
+    "country": "Iraq"
+  },
+  {
+    "city": "Aksaray",
+    "population": 152201,
+    "country": "Turkey"
+  },
+  {
+    "city": "Saqqez",
+    "population": 151237,
+    "country": "Iran"
+  },
+  {
+    "city": "Kiziltepe",
+    "population": 150174,
+    "country": "Turkey"
+  },
+  {
+    "city": "Marvdasht",
+    "population": 148858,
+    "country": "Iran"
+  },
+  {
+    "city": "Arar",
+    "population": 148540,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Rafsanjan",
+    "population": 147680,
+    "country": "Iran"
+  },
+  {
+    "city": "As Salimiyah",
+    "population": 147649,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Manama",
+    "population": 147074,
+    "country": "Bahrain"
+  },
+  {
+    "city": "Afyonkarahisar",
+    "population": 146136,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ashkelon",
+    "population": 144073,
+    "country": "Israel"
+  },
+  {
+    "city": "Kafr ash Shaykh",
+    "population": 143970,
+    "country": "Egypt"
+  },
+  {
+    "city": "Rehovot",
+    "population": 143904,
+    "country": "Israel"
+  },
+  {
+    "city": "Mallawi",
+    "population": 142504,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ilam",
+    "population": 140940,
+    "country": "Iran"
+  },
+  {
+    "city": "Sabah as Salim",
+    "population": 139163,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Dikirnis",
+    "population": 137542,
+    "country": "Egypt"
+  },
+  {
+    "city": "Tyre",
+    "population": 135204,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Inegol",
+    "population": 133959,
+    "country": "Turkey"
+  },
+  {
+    "city": "Idfu",
+    "population": 133000,
+    "country": "Egypt"
+  },
+  {
+    "city": "Miandoab",
+    "population": 132819,
+    "country": "Iran"
+  },
+  {
+    "city": "Shahrud",
+    "population": 131889,
+    "country": "Iran"
+  },
+  {
+    "city": "Gonbad-e Kavus",
+    "population": 131416,
+    "country": "Iran"
+  },
+  {
+    "city": "Iranshahr",
+    "population": 131232,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Bab",
+    "population": 130745,
+    "country": "Syria"
+  },
+  {
+    "city": "Nablus",
+    "population": 130326,
+    "country": "Palestine"
+  },
+  {
+    "city": "Tokat",
+    "population": 129702,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bilbays",
+    "population": 129211,
+    "country": "Egypt"
+  },
+  {
+    "city": "Shahr-e Kord",
+    "population": 129153,
+    "country": "Iran"
+  },
+  {
+    "city": "Bat Yam",
+    "population": 129012,
+    "country": "Israel"
+  },
+  {
+    "city": "Arish",
+    "population": 128855,
+    "country": "Egypt"
+  },
+  {
+    "city": "Idlib",
+    "population": 128840,
+    "country": "Syria"
+  },
+  {
+    "city": "Sinah",
+    "population": 128776,
+    "country": "Iraq"
+  },
+  {
+    "city": "Sakakah",
+    "population": 128332,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Girga",
+    "population": 128250,
+    "country": "Egypt"
+  },
+  {
+    "city": "Edirne",
+    "population": 126470,
+    "country": "Turkey"
+  },
+  {
+    "city": "Rafah",
+    "population": 126305,
+    "country": "Palestine"
+  },
+  {
+    "city": "Torbat-e Heydariyeh",
+    "population": 125633,
+    "country": "Iran"
+  },
+  {
+    "city": "'Ajlun",
+    "population": 125557,
+    "country": "Jordan"
+  },
+  {
+    "city": "Derince",
+    "population": 125485,
+    "country": "Turkey"
+  },
+  {
+    "city": "Soran",
+    "population": 125000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Bet Shemesh",
+    "population": 124957,
+    "country": "Israel"
+  },
+  {
+    "city": "Semnan",
+    "population": 124826,
+    "country": "Iran"
+  },
+  {
+    "city": "Marand",
+    "population": 124191,
+    "country": "Iran"
+  },
+  {
+    "city": "Az Zubayr",
+    "population": 122676,
+    "country": "Iraq"
+  },
+  {
+    "city": "Beylikduezue",
+    "population": 122452,
+    "country": "Turkey"
+  },
+  {
+    "city": "Tekirdag",
+    "population": 122287,
+    "country": "Turkey"
+  },
+  {
+    "city": "Zabol",
+    "population": 121989,
+    "country": "Iran"
+  },
+  {
+    "city": "Karaman",
+    "population": 120399,
+    "country": "Turkey"
+  },
+  {
+    "city": "Nabatiye et Tahta",
+    "population": 120000,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Nazilli",
+    "population": 119370,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ordu",
+    "population": 116788,
+    "country": "Turkey"
+  },
+  {
+    "city": "Siirt",
+    "population": 114034,
+    "country": "Turkey"
+  },
+  {
+    "city": "Erzincan",
+    "population": 114027,
+    "country": "Turkey"
+  },
+  {
+    "city": "Alanya",
+    "population": 112969,
+    "country": "Turkey"
+  },
+  {
+    "city": "Duma",
+    "population": 111864,
+    "country": "Syria"
+  },
+  {
+    "city": "Quchan",
+    "population": 111752,
+    "country": "Iran"
+  },
+  {
+    "city": "Masjed Soleyman",
+    "population": 111510,
+    "country": "Iran"
+  },
+  {
+    "city": "Turhal",
+    "population": 110884,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bandar-e Anzali",
+    "population": 110826,
+    "country": "Iran"
+  },
+  {
+    "city": "Kfar Saba",
+    "population": 110456,
+    "country": "Israel"
+  },
+  {
+    "city": "Kufa",
+    "population": 110000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Sohar",
+    "population": 108274,
+    "country": "Oman"
+  },
+  {
+    "city": "Bandirma",
+    "population": 107631,
+    "country": "Turkey"
+  },
+  {
+    "city": "Umm Qasr",
+    "population": 107620,
+    "country": "Iraq"
+  },
+  {
+    "city": "As Suwayq",
+    "population": 107143,
+    "country": "Oman"
+  },
+  {
+    "city": "Al Hawamidiyah",
+    "population": 106841,
+    "country": "Egypt"
+  },
+  {
+    "city": "Jizan",
+    "population": 105198,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Baneh",
+    "population": 104799,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Faw",
+    "population": 104569,
+    "country": "Iraq"
+  },
+  {
+    "city": "Bilqas",
+    "population": 103596,
+    "country": "Egypt"
+  },
+  {
+    "city": "Turgutlu",
+    "population": 103292,
+    "country": "Turkey"
+  },
+  {
+    "city": "Qurayyat",
+    "population": 102903,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Disuq",
+    "population": 102037,
+    "country": "Egypt"
+  },
+  {
+    "city": "Parsabad",
+    "population": 101661,
+    "country": "Iran"
+  },
+  {
+    "city": "`Ibri",
+    "population": 101640,
+    "country": "Oman"
+  },
+  {
+    "city": "Mustafakemalpasa",
+    "population": 101412,
+    "country": "Turkey"
+  },
+  {
+    "city": "Abu Kabir",
+    "population": 100684,
+    "country": "Egypt"
+  },
+  {
+    "city": "Qalyub",
+    "population": 100495,
+    "country": "Egypt"
+  },
+  {
+    "city": "Zonguldak",
+    "population": 100229,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kuhdasht",
+    "population": 100208,
+    "country": "Iran"
+  },
+  {
+    "city": "Jaffa",
+    "population": 100000,
+    "country": "Israel"
+  },
+  {
+    "city": "Sabt Alalayah",
+    "population": 100000,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Dhahran",
+    "population": 99540,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Manbij",
+    "population": 99497,
+    "country": "Syria"
+  },
+  {
+    "city": "Akhmim",
+    "population": 99446,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Matariyah",
+    "population": 99357,
+    "country": "Egypt"
+  },
+  {
+    "city": "Bam",
+    "population": 99268,
+    "country": "Iran"
+  },
+  {
+    "city": "Manavgat",
+    "population": 99254,
+    "country": "Turkey"
+  },
+  {
+    "city": "Giresun",
+    "population": 98864,
+    "country": "Turkey"
+  },
+  {
+    "city": "Habbouch",
+    "population": 98433,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Akbarabad",
+    "population": 98342,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Qatif",
+    "population": 98259,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Fasa",
+    "population": 98061,
+    "country": "Iran"
+  },
+  {
+    "city": "Dar'a",
+    "population": 97969,
+    "country": "Syria"
+  },
+  {
+    "city": "Karabuk",
+    "population": 97481,
+    "country": "Turkey"
+  },
+  {
+    "city": "Herzliya",
+    "population": 97470,
+    "country": "Israel"
+  },
+  {
+    "city": "Al Muharraq",
+    "population": 97458,
+    "country": "Bahrain"
+  },
+  {
+    "city": "Hadera",
+    "population": 97335,
+    "country": "Israel"
+  },
+  {
+    "city": "Yasuj",
+    "population": 96786,
+    "country": "Iran"
+  },
+  {
+    "city": "Bolu",
+    "population": 96629,
+    "country": "Turkey"
+  },
+  {
+    "city": "Jounieh",
+    "population": 96315,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Ceyhan",
+    "population": 96303,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kashmar",
+    "population": 96151,
+    "country": "Iran"
+  },
+  {
+    "city": "Hurghada",
+    "population": 95622,
+    "country": "Egypt"
+  },
+  {
+    "city": "Zaxo",
+    "population": 95052,
+    "country": "Iraq"
+  },
+  {
+    "city": "Aqaba",
+    "population": 95048,
+    "country": "Jordan"
+  },
+  {
+    "city": "As Salamiyah",
+    "population": 94887,
+    "country": "Syria"
+  },
+  {
+    "city": "Dogonbadan",
+    "population": 94638,
+    "country": "Iran"
+  },
+  {
+    "city": "Kazerun",
+    "population": 94511,
+    "country": "Iran"
+  },
+  {
+    "city": "Ahar",
+    "population": 94348,
+    "country": "Iran"
+  },
+  {
+    "city": "Kirsehir",
+    "population": 94336,
+    "country": "Turkey"
+  },
+  {
+    "city": "Behshahr",
+    "population": 93500,
+    "country": "Iran"
+  },
+  {
+    "city": "Modi'in Makkabbim Re'ut",
+    "population": 93277,
+    "country": "Israel"
+  },
+  {
+    "city": "Polatli",
+    "population": 93262,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bafra",
+    "population": 92944,
+    "country": "Turkey"
+  },
+  {
+    "city": "Rize",
+    "population": 92772,
+    "country": "Turkey"
+  },
+  {
+    "city": "Zefta",
+    "population": 92667,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Harithah",
+    "population": 92395,
+    "country": "Iraq"
+  },
+  {
+    "city": "Eregli",
+    "population": 92117,
+    "country": "Turkey"
+  },
+  {
+    "city": "Agri",
+    "population": 92022,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ercis",
+    "population": 91915,
+    "country": "Turkey"
+  },
+  {
+    "city": "Marivan",
+    "population": 91664,
+    "country": "Iran"
+  },
+  {
+    "city": "Aligudarz",
+    "population": 91041,
+    "country": "Iran"
+  },
+  {
+    "city": "Nigde",
+    "population": 91039,
+    "country": "Turkey"
+  },
+  {
+    "city": "Luleburgaz",
+    "population": 90899,
+    "country": "Turkey"
+  },
+  {
+    "city": "'Amran",
+    "population": 90792,
+    "country": "Yemen"
+  },
+  {
+    "city": "Tahta",
+    "population": 90591,
+    "country": "Egypt"
+  },
+  {
+    "city": "Korfez",
+    "population": 90580,
+    "country": "Turkey"
+  },
+  {
+    "city": "Samalut",
+    "population": 90465,
+    "country": "Egypt"
+  },
+  {
+    "city": "Alvand",
+    "population": 90000,
+    "country": "Iran"
+  },
+  {
+    "city": "Tartus",
+    "population": 89457,
+    "country": "Syria"
+  },
+  {
+    "city": "Saham",
+    "population": 89327,
+    "country": "Oman"
+  },
+  {
+    "city": "Nusaybin",
+    "population": 88977,
+    "country": "Turkey"
+  },
+  {
+    "city": "Salihli",
+    "population": 88906,
+    "country": "Turkey"
+  },
+  {
+    "city": "Eregli",
+    "population": 88848,
+    "country": "Turkey"
+  },
+  {
+    "city": "Al Bahah",
+    "population": 88419,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Kozan",
+    "population": 88115,
+    "country": "Turkey"
+  },
+  {
+    "city": "Qorveh",
+    "population": 87953,
+    "country": "Iran"
+  },
+  {
+    "city": "Yozgat",
+    "population": 87881,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ath Thawrah",
+    "population": 87880,
+    "country": "Syria"
+  },
+  {
+    "city": "Canakkale",
+    "population": 87791,
+    "country": "Turkey"
+  },
+  {
+    "city": "Patnos",
+    "population": 87451,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bush",
+    "population": 86608,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Farwaniyah",
+    "population": 86525,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Al Fujairah City",
+    "population": 86512,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Borazjan",
+    "population": 86059,
+    "country": "Iran"
+  },
+  {
+    "city": "Khalifah A City",
+    "population": 85374,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Tarut",
+    "population": 85371,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Hawsh `Isa",
+    "population": 85352,
+    "country": "Egypt"
+  },
+  {
+    "city": "Rukban",
+    "population": 85000,
+    "country": "Jordan"
+  },
+  {
+    "city": "Akhisar",
+    "population": 84659,
+    "country": "Turkey"
+  },
+  {
+    "city": "Cerkezkoey",
+    "population": 84234,
+    "country": "Turkey"
+  },
+  {
+    "city": "Munuf",
+    "population": 83651,
+    "country": "Egypt"
+  },
+  {
+    "city": "Amasya",
+    "population": 82896,
+    "country": "Turkey"
+  },
+  {
+    "city": "Shirvan",
+    "population": 82790,
+    "country": "Iran"
+  },
+  {
+    "city": "Ash Shatrah",
+    "population": 82732,
+    "country": "Iraq"
+  },
+  {
+    "city": "Mus",
+    "population": 82536,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ashmun",
+    "population": 82507,
+    "country": "Egypt"
+  },
+  {
+    "city": "Madaba",
+    "population": 82335,
+    "country": "Jordan"
+  },
+  {
+    "city": "Reef Al Fujairah City",
+    "population": 82310,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Nizip",
+    "population": 82308,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kilis",
+    "population": 82301,
+    "country": "Turkey"
+  },
+  {
+    "city": "Fatsa",
+    "population": 82160,
+    "country": "Turkey"
+  },
+  {
+    "city": "Qal`at Bishah",
+    "population": 81828,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Ar Rass",
+    "population": 81728,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Barka'",
+    "population": 81647,
+    "country": "Oman"
+  },
+  {
+    "city": "Salmas",
+    "population": 81606,
+    "country": "Iran"
+  },
+  {
+    "city": "Al Hasakah",
+    "population": 81539,
+    "country": "Syria"
+  },
+  {
+    "city": "Cizre",
+    "population": 80992,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bingol",
+    "population": 80568,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bani Yas City",
+    "population": 80498,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Elbistan",
+    "population": 80456,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bonab",
+    "population": 80359,
+    "country": "Iran"
+  },
+  {
+    "city": "As Salt",
+    "population": 80189,
+    "country": "Jordan"
+  },
+  {
+    "city": "Shahre Jadide Andisheh",
+    "population": 80000,
+    "country": "Iran"
+  },
+  {
+    "city": "Hajiawa",
+    "population": 80000,
+    "country": "Iraq"
+  },
+  {
+    "city": "Ar Rifa'",
+    "population": 79550,
+    "country": "Bahrain"
+  },
+  {
+    "city": "Rustaq",
+    "population": 79383,
+    "country": "Oman"
+  },
+  {
+    "city": "Behbahan",
+    "population": 79327,
+    "country": "Iran"
+  },
+  {
+    "city": "Manfalut",
+    "population": 78744,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Hayy",
+    "population": 78272,
+    "country": "Iraq"
+  },
+  {
+    "city": "Zahle",
+    "population": 78145,
+    "country": "Lebanon"
+  },
+  {
+    "city": "Hakkari",
+    "population": 77699,
+    "country": "Turkey"
+  },
+  {
+    "city": "UEnye",
+    "population": 77585,
+    "country": "Turkey"
+  },
+  {
+    "city": "Shushtar",
+    "population": 77507,
+    "country": "Iran"
+  },
+  {
+    "city": "Kars",
+    "population": 77486,
+    "country": "Turkey"
+  },
+  {
+    "city": "Khomeyn",
+    "population": 77425,
+    "country": "Iran"
+  },
+  {
+    "city": "Lod",
+    "population": 77223,
+    "country": "Israel"
+  },
+  {
+    "city": "Damietta",
+    "population": 76839,
+    "country": "Egypt"
+  },
+  {
+    "city": "Modiin Ilit",
+    "population": 76374,
+    "country": "Israel"
+  },
+  {
+    "city": "Midyat",
+    "population": 76268,
+    "country": "Turkey"
+  },
+  {
+    "city": "Nahavand",
+    "population": 76250,
+    "country": "Iran"
+  },
+  {
+    "city": "Igdir",
+    "population": 75721,
+    "country": "Turkey"
+  },
+  {
+    "city": "Jamjamal",
+    "population": 75634,
+    "country": "Iraq"
+  },
+  {
+    "city": "Nevsehir",
+    "population": 75527,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ra'anana",
+    "population": 75421,
+    "country": "Israel"
+  },
+  {
+    "city": "Silifke",
+    "population": 75315,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ar Ramtha",
+    "population": 74901,
+    "country": "Jordan"
+  },
+  {
+    "city": "Alvand",
+    "population": 74889,
+    "country": "Iran"
+  },
+  {
+    "city": "Silopi",
+    "population": 74798,
+    "country": "Turkey"
+  },
+  {
+    "city": "Bismil",
+    "population": 74493,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kafr az Zayyat",
+    "population": 73725,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Buraymi",
+    "population": 73670,
+    "country": "Oman"
+  },
+  {
+    "city": "Nurabad",
+    "population": 73528,
+    "country": "Iran"
+  },
+  {
+    "city": "Naqadeh",
+    "population": 73528,
+    "country": "Iran"
+  },
+  {
+    "city": "Belek",
+    "population": 73260,
+    "country": "Turkey"
+  },
+  {
+    "city": "Tatvan",
+    "population": 73222,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kahta",
+    "population": 73105,
+    "country": "Turkey"
+  },
+  {
+    "city": "Ash Shafa",
+    "population": 72190,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Nizwa",
+    "population": 72076,
+    "country": "Oman"
+  },
+  {
+    "city": "Larnaca",
+    "population": 72000,
+    "country": "Cyprus"
+  },
+  {
+    "city": "Yuksekova",
+    "population": 71729,
+    "country": "Turkey"
+  },
+  {
+    "city": "Darayya",
+    "population": 71596,
+    "country": "Syria"
+  },
+  {
+    "city": "Takestan",
+    "population": 71499,
+    "country": "Iran"
+  },
+  {
+    "city": "Cankiri",
+    "population": 71379,
+    "country": "Turkey"
+  },
+  {
+    "city": "Mardin",
+    "population": 71373,
+    "country": "Turkey"
+  },
+  {
+    "city": "Yalova",
+    "population": 71289,
+    "country": "Turkey"
+  },
+  {
+    "city": "Abu Tij",
+    "population": 71257,
+    "country": "Egypt"
+  },
+  {
+    "city": "Sur",
+    "population": 71152,
+    "country": "Oman"
+  },
+  {
+    "city": "Gemlik",
+    "population": 71063,
+    "country": "Turkey"
+  },
+  {
+    "city": "Minab",
+    "population": 70790,
+    "country": "Iran"
+  },
+  {
+    "city": "Kastamonu",
+    "population": 70402,
+    "country": "Turkey"
+  },
+  {
+    "city": "Kadirli",
+    "population": 70248,
+    "country": "Turkey"
+  },
+  {
+    "city": "Dogubayazit",
+    "population": 70171,
+    "country": "Turkey"
+  },
+  {
+    "city": "Khalis",
+    "population": 70046,
+    "country": "Iraq"
+  },
+  {
+    "city": "Ayvalik",
+    "population": 70002,
+    "country": "Turkey"
+  },
+  {
+    "city": "Abhar",
+    "population": 69889,
+    "country": "Iran"
+  },
+  {
+    "city": "Dehdasht",
+    "population": 69726,
+    "country": "Iran"
+  },
+  {
+    "city": "Chalus",
+    "population": 69638,
+    "country": "Iran"
+  },
+  {
+    "city": "Khash",
+    "population": 69603,
+    "country": "Iran"
+  },
+  {
+    "city": "Sayyan",
+    "population": 69404,
+    "country": "Yemen"
+  },
+  {
+    "city": "Isna",
+    "population": 69335,
+    "country": "Egypt"
+  },
+  {
+    "city": "Abnub",
+    "population": 68749,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Qusiyah",
+    "population": 68394,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Jammaliyah",
+    "population": 68381,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Fahahil",
+    "population": 68290,
+    "country": "Kuwait"
+  },
+  {
+    "city": "Soeke",
+    "population": 68230,
+    "country": "Turkey"
+  },
+  {
+    "city": "Langarud",
+    "population": 68148,
+    "country": "Iran"
+  },
+  {
+    "city": "Ardesen",
+    "population": 67965,
+    "country": "Turkey"
+  },
+  {
+    "city": "Strovolos",
+    "population": 67904,
+    "country": "Cyprus"
+  },
+  {
+    "city": "Dayrut",
+    "population": 67788,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Kharjah",
+    "population": 67700,
+    "country": "Egypt"
+  },
+  {
+    "city": "Damghan",
+    "population": 67694,
+    "country": "Iran"
+  },
+  {
+    "city": "Tukh",
+    "population": 67599,
+    "country": "Egypt"
+  },
+  {
+    "city": "Al Manzalah",
+    "population": 67486,
+    "country": "Egypt"
+  },
+  {
+    "city": "OEdemis",
+    "population": 67153,
+    "country": "Turkey"
+  },
+  {
+    "city": "Sayhat",
+    "population": 66702,
+    "country": "Saudi Arabia"
+  },
+  {
+    "city": "Firuzabad",
+    "population": 66558,
+    "country": "Iran"
+  },
+  {
+    "city": "Burdur",
+    "population": 66158,
+    "country": "Turkey"
+  },
+  {
+    "city": "I`zaz",
+    "population": 66138,
+    "country": "Syria"
+  },
+  {
+    "city": "Silvan",
+    "population": 65956,
+    "country": "Turkey"
+  },
+  {
+    "city": "Soma",
+    "population": 65934,
+    "country": "Turkey"
+  },
+  {
+    "city": "Jablah",
+    "population": 65915,
+    "country": "Syria"
+  },
+  {
+    "city": "Dar Kulayb",
+    "population": 65466,
+    "country": "Bahrain"
+  },
+  {
+    "city": "Nazareth",
+    "population": 64800,
+    "country": "Israel"
+  },
+  {
+    "city": "Ahlat",
+    "population": 64695,
+    "country": "Turkey"
+  },
+  {
+    "city": "Rosetta",
+    "population": 64481,
+    "country": "Egypt"
+  },
+  {
+    "city": "Aksehir",
+    "population": 64446,
+    "country": "Turkey"
+  },
+  {
+    "city": "Nurabad",
+    "population": 64041,
+    "country": "Iran"
+  },
+  {
+    "city": "Awsim",
+    "population": 63862,
+    "country": "Egypt"
+  },
+  {
+    "city": "Ramla",
+    "population": 63860,
+    "country": "Israel"
+  },
+  {
+    "city": "Al Fashn",
+    "population": 63793,
+    "country": "Egypt"
+  },
+  {
+    "city": "As Safirah",
+    "population": 63708,
+    "country": "Syria"
+  },
+  {
+    "city": "Zayed City",
+    "population": 63482,
+    "country": "United Arab Emirates"
+  },
+  {
+    "city": "Darab",
+    "population": 63319,
+    "country": "Iran"
+  }
+]
