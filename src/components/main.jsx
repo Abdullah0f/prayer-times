@@ -3,6 +3,7 @@ import Select from "react-select";
 import { cities, city as c } from "../services/cities";
 import { useEffect, useState } from "react";
 import { request } from "../services/api";
+import Labels from "./labels";
 const Main = ({ prayers }) => {
   const [city, setCity] = useState(null);
   const [selectedCity, setSelectedCity] = useState(c);
@@ -29,7 +30,7 @@ const Main = ({ prayers }) => {
           onChange={handleChange}
           value={selectedCity}
         />
-
+        <Labels date={city.date} />
         <div className="main-body">
           <img src={require("../imgs/mosque23png.png")} alt="" />
         </div>
