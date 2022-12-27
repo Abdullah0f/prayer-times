@@ -101,7 +101,7 @@ width: fit-content;
   margin: 5px 
 }
 
-.labels{
+.date{
   font-family: "Cairo";
   font-weight: 600;
   font-size: 18px;
@@ -114,14 +114,14 @@ width: fit-content;
   position: absolute;
   right: 0;
 }
-.labels img{
+.date img{
   width: 2rem;
   margin-right: 1rem;
 }
-.labels td{
+.date td{
   padding-left: 12px;
 }
-.labels h2{
+.date h2{
   display: flex;
   justify-content: space-between;
   margin: 0 3px

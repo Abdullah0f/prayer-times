@@ -1,8 +1,8 @@
 import calendar from "../imgs/calendar.svg";
-const Labels = ({ date }) => {
+const Date = ({ date }) => {
   console.log(date);
   return (
-    <div className="labels">
+    <div className="date">
       <h2>
         <img src={calendar} alt="" />
         {date.hijri.weekday.ar}
@@ -24,4 +24,4 @@ const Labels = ({ date }) => {
   );
 };
 
-export default Labels;
+export default Date;
