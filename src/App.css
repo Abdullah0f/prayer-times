@@ -1,6 +1,7 @@
 
 /* card */
 .prayer-card{
+  cursor: pointer;
 background: #F6F6F6;
 width: fit-content;
 /* padding: 9px 0px 0px 0px; */
@@ -13,6 +14,23 @@ display: flex;
 flex-direction: column;
 justify-content: center;
 align-items: center;
+transition: 0.3s;
+}
+.prayer-card:hover{
+  /* cursor: pointer; */
+  /* height: 150px; */
+  scale: 1.1;
+}
+.prayer-card.expanded:hover>h4{
+  /* cursor: pointer; */
+  /* height: 150px; */
+  margin-bottom: 8px;
+  
+}
+.prayer-card:hover>h4{
+  /* cursor: pointer; */
+  /* height: 150px; */
+  margin-bottom: 0;
 }
 .prayer-card h4{
   font-family: "Cairo";
@@ -38,10 +56,14 @@ box-shadow: 0px 0px 5px 2px #1E8D3E;
 .prayer-card.expanded h4{
 margin-top: 5px;
 }
+.prayer-card:has(.r-2){
+box-shadow: 0px 0px 5px 2px #1E8D3E;
+
+}
 .remaining{
 /* padding: 12px 0px 0px 0px; */
   margin: 0;
-  color: #11B719;
+  color: #11a118;
   font-family: "Cairo";
   font-size: 26px;
 }
@@ -55,6 +77,7 @@ margin-top: 5px;
   .remaining{
     font-size: 17px !important;
   }
+
   .prayer-card p{
     /* width: 100px; */
     font-size: 13px;
@@ -101,27 +124,37 @@ width: fit-content;
   margin: 5px 
 }
 
-.date{
+.label{
   font-family: "Cairo";
   font-weight: 600;
   font-size: 18px;
-  margin-right: 1rem;
   margin-top: 0.5rem;
   padding: 1px 5px;
   border-radius: 10px;
   background: #F6F6F6;
   width: fit-content;
   position: absolute;
-  right: 0;
+box-shadow: 0px 0px 2px 1px #1E8D3E;
+
 }
-.date img{
+.date{
+  right: 0;
+  margin-right: 1rem;
+
+
+}
+.time{
+  left: 0;
+  margin-left: 1rem;
+}
+.label img{
   width: 2rem;
   margin-right: 1rem;
 }
 .date td{
   padding-left: 12px;
 }
-.date h2{
+.label h2{
   display: flex;
   justify-content: space-between;
   margin: 0 3px

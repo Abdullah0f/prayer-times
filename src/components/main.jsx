@@ -3,7 +3,9 @@ import Select from "react-select";
 import { cities, city as c } from "../services/cities";
 import { useEffect, useState } from "react";
 import { request } from "../services/api";
-import Date from "./labels";
+import { customStyles } from "../utils/styles";
+import Date from "./date";
+import Time from "./time";
 const Main = ({ prayers }) => {
   const [city, setCity] = useState(null);
   const [selectedCity, setSelectedCity] = useState(c);
@@ -29,8 +31,10 @@ const Main = ({ prayers }) => {
           isSearchable={true}
           onChange={handleChange}
           value={selectedCity}
+          styles={customStyles}
         />
         <Date date={city.date} />
+        <Time time={city.date.timestamp} />
         <div className="main-body">
           <img src={require("../imgs/mosque23png.png")} alt="" />
         </div>
